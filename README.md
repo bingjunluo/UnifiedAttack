@@ -4,6 +4,8 @@
 
 ### Evaluating the Safety of Large Multimodal Models<br>in Synergistic Harmful Image-Text Generation
 
+[![arXiv](https://img.shields.io/badge/arXiv-2610.00341-b31b1b.svg)](https://arxiv.org/abs/2610.00341)
+[![Hugging Face Papers](https://img.shields.io/badge/Hugging%20Face-Papers-FFD21E.svg)](https://huggingface.co/papers/2610.00341)
 [![Benchmark](https://img.shields.io/badge/Benchmark-495_queries-00897b.svg)](data/unified_attack_bench_495.jsonl)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
